@@ -1,4 +1,4 @@
-# 6-wheel vehicle model beetlebot_AIOZ with Rocker-bogie mechanism
+# 6-wheel vehicle model beetlebot with Rocker-bogie mechanism
 
 The model was created from Solidworks and transfer to gazebo to define the ROS/gazebo/control section
 

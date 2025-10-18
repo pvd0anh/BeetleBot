@@ -33,7 +33,7 @@
 
     $ cd navigation/beetlebot
     $ . devel/setup.bash
-    $ cd src/beetlebot_AIOZ/beetlebot_control/scripts
+    $ cd src/beetlebot/beetlebot_control/scripts
     $ python keyboard_controller.py
 
 key| command|
@@ -49,3 +49,7 @@ i| increase velocity by 1
 k| decrease velocity by 1
 j| decrease turning radius by 10 or increase turning degree
 l| increase turning radius by 10 or decrease turning degree
+
+
+
+Ref: [aioz-ai](https://github.com/aioz-ai/IROS20_NMFNet)
